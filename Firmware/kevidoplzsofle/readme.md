@@ -2,7 +2,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Kevin Do](https://github.com/Kevidoplz)
+* Keyboard Maintainer: [kevidoplz](https://github.com/Kevidoplz)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
