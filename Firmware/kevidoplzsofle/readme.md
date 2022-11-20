@@ -1,7 +1,5 @@
 # kevidoplzsofle
 
-![kevidoplzsofle](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Kevin Do](https://github.com/Kevidoplz)
